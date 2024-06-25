@@ -2,4 +2,3 @@ portainer/portainer-ce
 xiaoyaliu/alist
 xhofe/alist-aria2
 ionewu/owjdxb
-xhofe/alist
