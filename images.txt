@@ -3,3 +3,4 @@ xiaoyaliu/alist
 xhofe/alist-aria2
 ionewu/owjdxb
 qdtoday/qd
+idootop/mi-gpt:latest
